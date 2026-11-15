@@ -1,0 +1,22 @@
+# ---- 运行时数据（真实数据在 %USERPROFILE%\.dsh\deepseek-todo\，不进仓库）----
+data/
+config.json
+todos.json
+todos_*.json
+state.json
+logs/
+*.log
+
+# ---- 本机调试产物 / 证据 ----
+_evidence/
+out/
+*.zip
+
+# ---- 系统 / 编辑器 ----
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# 说明：screenshots/ 里的 PNG 要进仓库，别整体忽略 *.png
