@@ -1,4 +1,4 @@
-﻿# dsh-todo-tray · 待办托盘
+# dsh-todo-tray · 待办托盘
 
 常驻 Windows 托盘的轻量待办清单：点开是一张悬浮清单，收起是屏幕边上一只摇尾巴的小鲸鱼。
 **零依赖、不联网、不写注册表** —— 只用 Windows 自带的 PowerShell 5.1 + WinForms，解压即用。
@@ -140,4 +140,9 @@ todo.cmd export [--md]   /   todo.cmd where
 
 MIT License，见 [LICENSE](LICENSE)。
 
-作者：**cute fish**（GitHub：[@Qing-with-cutefish](https://github.com/Qing-with-cutefish)）。
+## 作者
+
+- **cute fish**（[@Qing-with-cutefish](https://github.com/Qing-with-cutefish)）— 需求、验收、试用
+- **大肥鱼**（DeepSeek Harness AI agent）— 实现、界面、文档
+
+这个软件是我们一起写的：人定需求、挑毛病、验收；AI 写代码、画界面、写文档。
