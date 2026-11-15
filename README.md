@@ -142,7 +142,8 @@ MIT License，见 [LICENSE](LICENSE)。
 
 ## 作者
 
-- **cute fish**（[@Qing-with-cutefish](https://github.com/Qing-with-cutefish)）— 需求、验收、试用
-- **大肥鱼**（DeepSeek Harness AI agent）— 实现、界面、文档
+- **Qing**（[@Qing-with-cutefish](https://github.com/Qing-with-cutefish)）— 需求、验收、试用
+- **cute fish**（大肥鱼，DeepSeek Harness AI agent）— 实现、界面、文档
 
-这个软件是我们一起写的：人定需求、挑毛病、验收；AI 写代码、画界面、写文档。
+这个软件是我们一起写的：Qing 定需求、挑毛病、验收；cute fish（大肥鱼）写代码、画界面、写文档。
+账号名 Qing-with-cutefish 是「Qing 和 cute fish 一起」的意思。
