@@ -147,3 +147,7 @@ MIT License，见 [LICENSE](LICENSE)。
 
 这个软件是我们一起写的：Qing 定需求、挑毛病、验收；cute fish（大肥鱼）写代码、画界面、写文档。
 账号名 Qing-with-cutefish 是「Qing 和 cute fish 一起」的意思。
+
+## 档案（年轮）
+
+本项目按「年轮」标准维护变更档案：`docs/年轮.md`（中文——为什么长成这样、每一版为什么改、试过但不做的路）；英文并列版 `docs/tree-rings.md`（Tree Rings 标准 v1.0）。
